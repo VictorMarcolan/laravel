@@ -11,5 +11,5 @@ class calculosController extends Controller
 
 
 function subtrair($x, $y){
-    return 'Subtração: ' . $x + $y;
+    return 'Subtração: ' . $x - $y;
 }
