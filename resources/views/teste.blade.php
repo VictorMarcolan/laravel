@@ -1,2 +1,1 @@
-<h1>Esta é a página teste</h1>
-<p>Ocódigo funcionoouuu</p>
+<h1>Esta é a página de teste</h1>
